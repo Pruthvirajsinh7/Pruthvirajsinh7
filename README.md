@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Pruthvirajsinh Kathiya
-[![Linkedin Badge](https://img.shields.io/badge/-pruthvirajsinhkathiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvirajsinhkathiya/)](https://www.linkedin.com/in/prtuhvirajsinhkathiya/) [![Gmail Badge](https://img.shields.io/badge/-pruthvirajsinhkathiya123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pruthvirajsinhkathiya@gmail.com)](mailto:pruthvirajsinhkathiya123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-pruthvirajsinhkathiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvirajsinhkathiya/)](https://www.linkedin.com/in/pruthvirajsinhkathiya/) [![Gmail Badge](https://img.shields.io/badge/-pruthvirajsinhkathiya123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pruthvirajsinhkathiya@gmail.com)](mailto:pruthvirajsinhkathiya123@gmail.com)
 
 
 
