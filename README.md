@@ -3,8 +3,8 @@
 
 
 ## 👨🏻‍💻 &nbsp;About Me 
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Studying Electronics and Communication at Nirma University.
+- 🌱 &nbsp; Learning more about Computer Architecture, Testing and verification and DS.
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-PruthvirajsinhKathiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvirajsinhkathiya/)](https://www.linkedin.com/in/pruthvirajsinhkathiya/) [![Gmail Badge](https://img.shields.io/badge/-pruthvirajsinhkathiya123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pruthvirajsinhkathiya@gmail.com)](mailto:pruthvirajsinhkathiya123@gmail.com)
 
 ![Pruthvirajsinh Kathiya Github Stats](https://github-readme-stats.vercel.app/api?username=Pruthvirajsinh7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
