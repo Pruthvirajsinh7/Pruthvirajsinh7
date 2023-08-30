@@ -10,7 +10,7 @@
 <a href="https://in.linkedin.com/in/pruthvirajsinhkathiya/">
   <img align="left" alt="Pruthvirajsinh kathiya | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a href="pruthvirajsinhkathiya123@gmail.com">
+<a href="mailto:pruthvirajsinhkathiya123@gmail.com">
   <img align="left" alt="Pruthvirajsinh Kathiya | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 <br>
