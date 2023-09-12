@@ -20,6 +20,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Pruthvirajsinh7)](https://github.com/Pruthvirajsinh7) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Pruthvirajsinh7)](https://github.com/Pruthvirajsinh7) 
 [![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&link=https://github.com/pruthvirajsinh7)](https://github.com/Pruthvirajsinh7)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/YourUsername)](https://github.com/YourUsername)
 [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white&link=https://anaconda.org/Pruthvirajsinh7)](https://anaconda.org/Pruthvirajsinh7)
 [![Spyder](https://img.shields.io/badge/-Spyder-FFD43B?style=flat&logo=spyder-ide&logoColor=white&link=https://github.com/Pruthvirajsinh7)](https://github.com/Pruthvirajsinh7)
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white&link=https://github.com/Pruthvirajsinh7)](https://github.com/Pruthvirajsinh7)
@@ -29,6 +30,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Pruthvirajsinh7)](https://github.com/Pruthvirajsinh7)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&link=https://github.com/Pruthvirajsinh7)](https://github.com/Pruthvirajsinh7)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&link=https://github.com/Pruthvirajsinh7)](https://github.com/Pruthvirajsinh7)
+[![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white&link=https://github.com/YourUsername)](https://github.com/YourUsername)
+
 
 <br>
 
