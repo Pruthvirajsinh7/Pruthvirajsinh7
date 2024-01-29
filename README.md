@@ -31,7 +31,6 @@
 <br>
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Pruthvirajsinh7"><img src="https://github-readme-stats.vercel.app/api?username=Pruthvirajsinh7&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=3382ed&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Pruthvirajsinh7's GitHub stats" /></a>
-
-<a href="https://github.com/Pruthvirajsinh7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvirajsinh7&langs_count=10&title_color=14b8a6&text_color=3382ed&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pruthvirajsinh7&theme=material-palenight&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvirajsinh7&theme=material-palenight&layout=compact" />
 
